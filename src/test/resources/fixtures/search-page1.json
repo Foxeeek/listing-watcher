@@ -1,0 +1,908 @@
+{
+    "data": {
+        "clientCompatibleListings": {
+            "__typename": "ListingSuccess",
+            "data": [
+                {
+                    "id": 1099032519,
+                    "title": "Kotka do oddania",
+                    "description": "Kotka ma 3 miesiąca, niestety muszę ją oddać ze względu, że nie dogaduje się z kotem, który już był w domu.<br />\nChętnie się bawi, nie boi się ludzi ani zwierząt, załatwia się do kuwety.",
+                    "url": "https://www.olx.pl/d/oferta/kotka-do-oddania-CID103-ID1cnqyX.html",
+                    "created_time": "2026-09-18T08:07:32+02:00",
+                    "last_refresh_time": "2026-09-18T08:11:16+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Imielin"
+                        },
+                        "region": {
+                            "name": "Śląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7115s4gw3in73-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ld2vfanbi10g-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/lmh51b4da6ri2-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100292796,
+                    "title": "Słodkości do pokochania",
+                    "description": "Kocie przesłodkie rodzeństwo pomału rozgląda się za najlepszymi i najczulszymi domami pod słońcem całym.<br />\nKotki szukają bezpiecznych, domów niewychodzących.<br />\n<br />\n 73*******10",
+                    "url": "https://www.olx.pl/d/oferta/slodkosci-do-pokochania-CID103-ID1csIq0.html",
+                    "created_time": "2026-09-23T16:21:10+02:00",
+                    "last_refresh_time": "2026-09-23T16:22:11+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Maków Mazowiecki"
+                        },
+                        "region": {
+                            "name": "Mazowieckie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/jzzbyl1mgf731-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/vwe176k4t06b1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/pwazho4cglfb-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100270126,
+                    "title": "Trzy miesięczne dymne kociątko szuka domu!",
+                    "description": "Rózia ma 3 miesiące, ma bardzo rzadkie przepiękne dymne umaszczenie. Jest przepiękna. Z charakteru jest spokojna i zrównoważona. Jest bardzo grzecznym i ułożonym maluszkiem. Rózia akceptuje inne koty będzie idealna na dokocenie.<br />\n<br />\nKoteczka jest odrobaczona, zaszczepiona, testy fiv/felv ma ujemne. Ładnie korzysta z kuwety.<br />\n<br />\nDla koteczki szukam domu tylko i wyłącznie nie wychodzącego. Najlepiej Kraków i okolice ale transport do innego miasta jest również możliwy. Tylko polskie rodziny bez małych dzieci. Obowiązuje umowa adopcyjna, adopcja jest bezpłatna. Osoby zainteresowane adopcją proszę o kontakt telefoniczny pod numerem telefonu 66*******50 jestem dostępna codziennie po godz.12",
+                    "url": "https://www.olx.pl/d/oferta/trzy-miesieczne-dymne-kociatko-szuka-domu-CID103-ID1csCvm.html",
+                    "created_time": "2026-09-23T14:51:59+02:00",
+                    "last_refresh_time": "2026-09-23T14:52:00+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kraków"
+                        },
+                        "region": {
+                            "name": "Małopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/z26labxkiwcz2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gerojs5wtpyr2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/m9z5f6az46841-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/f06wjoe7ah5v2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/btp080l8hx0n-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100334957,
+                    "title": "Rozbiórki stodół, wymiana desek na nowe, skup starych stodół, stare deski, stare drewno, stodoła",
+                    "description": "Witam,<br />\n<br />\nNasza firma zajmuje się skupem starego drewna, desek obiciowych ze starych budynków. <br />\n<br />\nProwadzimy rozbiórki starych budynków drewnianych. Budynki rozbieramy całkowicie, a za pozyskany materiał płacimy gotówką. Posiadamy uprawnienia na usuwanie materiałów zawierających azbest.<br />\nPokrycie dachowe odpowiednio zabezpieczamy i wystawiamy na to dokument.<br />\n<br />\nZajmujemy się również darmową wymianą starych desek na nową deskę calówkę.<br />\n<br />\nPosiadamy wieloletnie doświadczenie, dzięki czemu wykonujemy naszą pracę solidnie i sprawnie. Mamy własny transport, a za materiał płacimy gotówką w dniu zakupu. Do każdego zlecenia podchodzimy indywidualnie. Dokonujemy bezpłatnej wyceny.<br />\nWięcej informacji pod numerem telefonu lub emailem: skupstaregodrewna2000(małpa)gmail.com",
+                    "url": "https://www.olx.pl/d/oferta/rozbiorki-stodol-wymiana-desek-na-nowe-skup-starych-stodol-stare-deski-stare-drewno-stodola-CID5216-ID1csTo1.html",
+                    "created_time": "2026-09-23T19:22:52+02:00",
+                    "last_refresh_time": "2026-09-23T19:23:53+02:00",
+                    "category": {
+                        "id": 5358,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Zwierzyniec"
+                        },
+                        "region": {
+                            "name": "Lubelskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/tlh5g61sri02-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/5sunwmuj95ee-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2z36nr3it4k21-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ot57nelcv88z2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/tkk0ymj3v2hq3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/mnqmmrkpuyaa-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ts3l70mhzcfk1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/zwwvg8wukiuy1-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100334892,
+                    "title": "Drzwi białe zewnętrzne i wewnętrzne 80P",
+                    "description": "Oddam stare drzwi, 80 prawe. Dokładne wymiary i szczegóły podam zainteresowanym osobom.",
+                    "url": "https://www.olx.pl/d/oferta/drzwi-biale-zewnetrzne-i-wewnetrzne-80p-CID5216-ID1csTmY.html",
+                    "created_time": "2026-09-23T19:22:38+02:00",
+                    "last_refresh_time": "2026-09-23T19:23:39+02:00",
+                    "category": {
+                        "id": 5247,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kraków"
+                        },
+                        "region": {
+                            "name": "Małopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/e8112hy503ut-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/6yoncisgem8z2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/1zxc3xegjf6f1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/63yj10p2nidz1-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100201181,
+                    "title": "Pampers premium care 3",
+                    "description": "Oddam pampers premium CARE 3 ok. 40 sztuk. Kabaty",
+                    "url": "https://www.olx.pl/d/oferta/pampers-premium-care-3-CID88-ID1cskAl.html",
+                    "created_time": "2026-09-23T10:57:51+02:00",
+                    "last_refresh_time": "2026-09-23T10:58:52+02:00",
+                    "category": {
+                        "id": 4758,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Warszawa"
+                        },
+                        "region": {
+                            "name": "Mazowieckie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cwls8tsyps1o3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/rikjxzu10jlp1-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100334363,
+                    "title": "Oddam kotki w dobre ręce",
+                    "description": "Oddam kotki w dobre ręce ,są z początku sierpnia,  2 dziewczynki i jeden chłopiec zainteresowanych proszę pisać .",
+                    "url": "https://www.olx.pl/d/oferta/oddam-kotki-w-dobre-rece-CID103-ID1csTer.html",
+                    "created_time": "2026-09-23T19:21:24+02:00",
+                    "last_refresh_time": "2026-09-23T19:23:32+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kłokock"
+                        },
+                        "region": {
+                            "name": "Kujawsko-pomorskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/i5qmgt8kxir21-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/yijfpgg5t41y-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/u848oyspdmq93-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/frfjqvgbxk6m-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/1o9306rmq0yv-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dprahmmwhg8q3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ul1qxiy6db2s3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/tqf70et0pqvz2-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1061514544,
+                    "title": "Frotka szuka domu",
+                    "description": "Frotka to koteczka ok 2 letnia. Jest wysterylizowana, odrobaczona i odpchlona. Jest kotkiem leķko wycofanym ale przy blizszym poznaniu jest bardzo mila. Szuka kochajacej rodziny i bezoiecznego domu.Przebywa w domu tymczasowym Kocie Łapki. Nie obowiazuje umowa adopcyjna.Zapraszamy do odwiedzin  naszego domu tymczasowego! Często dopiero podczas spotkania na żywo rodzi się ta wyjątkowa więź. Nawet jeśli oglądasz ogłoszenie jednego kota, możesz zakochać się w zupełnie innym. Przyjdź poznać nasze kociaki – być może jeden z nich właśnie czeka na Ciebie.",
+                    "url": "https://www.olx.pl/d/oferta/frotka-szuka-domu-CID103-ID19Q0qk.html",
+                    "created_time": "2026-03-18T07:48:40+01:00",
+                    "last_refresh_time": "2026-09-23T19:23:20+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Murzynowo"
+                        },
+                        "region": {
+                            "name": "Lubuskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dtjt4wbvurzt1-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1057163724,
+                    "title": "Opaski galenic paris - cały worek",
+                    "description": "Preferowany odbiór osobisty.<br />\n<br />\nBiałe, używane opaski Galenic Paris, idealne dla obu płci - ale są dosyć małe- długość opasek 58cm. <br />\n<br />\nNie wiem ile ich jest, jest ich caly duży worek, szacuje że będzie ich około 50.",
+                    "url": "https://www.olx.pl/d/oferta/opaski-galenic-paris-caly-worek-CID87-ID19xKzO.html",
+                    "created_time": "2026-02-25T18:35:48+01:00",
+                    "last_refresh_time": "2026-09-23T19:22:20+02:00",
+                    "category": {
+                        "id": 2728,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kraków"
+                        },
+                        "region": {
+                            "name": "Małopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/6ikttp1oscf52-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/qyt2ty7ganoh1-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100333580,
+                    "title": "Blat tymczasowy kuchenny",
+                    "description": "Oddam za darmo blat tymczasowy kuchenny - odbiór osobisty w razie dodatkowych pytań proszę o telefon . Blat był przez nas używany do czasu zamontowania blatu właściwego .",
+                    "url": "https://www.olx.pl/d/oferta/blat-tymczasowy-kuchenny-CID628-ID1csT1O.html",
+                    "created_time": "2026-09-23T19:17:36+02:00",
+                    "last_refresh_time": "2026-09-23T19:18:39+02:00",
+                    "category": {
+                        "id": 1913,
+                        "type": "house_and_garden"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Nowy Sącz"
+                        },
+                        "region": {
+                            "name": "Małopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/24xdsl8d7fhd1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/89arqmzrtknq-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/6pz09tlue6n91-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/d99orx7li1tt-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100333585,
+                    "title": "Oddam ubranka dla chłopca 68-86",
+                    "description": "Oddam używane ubranka dla chłopca. Za cos słodkiego, ubranka nie przebierane ale w dużej mierze nie zniszczone do trzech worków na zdjęciach dorzucam jeszcze cztery kartony",
+                    "url": "https://www.olx.pl/d/oferta/oddam-ubranka-dla-chlopca-68-86-CID88-ID1csT1T.html",
+                    "created_time": "2026-09-23T19:17:37+02:00",
+                    "last_refresh_time": "2026-09-23T19:18:40+02:00",
+                    "category": {
+                        "id": 2492,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Trzepowo"
+                        },
+                        "region": {
+                            "name": "Mazowieckie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/h96zjkkpjb18-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1099274139,
+                    "title": "Beatka bardzo prosi o dom..",
+                    "description": "BEATKA SZUKA SWOJEGO CZŁOWIEKA! <br />\nPoznajcie Beatkę – uroczą, około 5-miesięczną tricolorkę, która została znaleziona na ulicy. Beatka podbiegała do ludzi,wbiegała pod auta..rozpaczliwie błagała o ratunek.. musiałam ją stamtąd zabrać.. cała w kleszczach i przeraźliwie chuda.. <br />\nOna jest tak bardzo zakochana w Człowieku ..wykorzystuje każdą okazję żeby jak pogłaskać pięknie przy tym mrucząc.. ona tak bardzo potrzebuje Swojego Człowieka i domu.<br />\nMimo trudnego początku Beatka jest cudowną, mizianą i bardzo przyjazną koteczką. Uwielbia kontakt z człowiekiem i zdecydowanie zasługuje na to, aby w końcu mieć swój własny, bezpieczny dom. <br />\nBeatka:<br />\n- około 5 miesięcy<br />\n-przepiękna trikolorka o cudnych zielonych oczach<br />\n- bardzo miziasta i kontaktowa<br />\n- przyjazna i kochana<br />\n- szuka domu na całe życie<br />\nNie wiemy, jak długo musiała radzić sobie sama, ale wiemy jedno – ulica nie jest miejscem dla takiej małej kotki. Beatka chciałaby już tylko mieć swoją rodzinę, ciepły kąt i człowieka, który pokocha ją całym sercem. <br />\nBeatka jest odrobaczona i zaczipowana,czeka ją jeszcze szczepienie..<br />\nTesty FIV i FeLV (na białaczkę -negatywny).Potrafi korzystać z kuwety.<br />\nJeżeli masz jakieś pytania zadzwoń :781x 246 x297<br />\nBeatka czeka na Ciebie w Tarnobrzeskim Stowarzyszeniu,,Chrońmy Zwierzęta,, woj.padkarpackie.<br />\nOrganizujemy transport do nowego domu na terenie Polski.<br />\nObowiązuje umowa adopcyjna.",
+                    "url": "https://www.olx.pl/d/oferta/beatka-bardzo-prosi-o-dom-CID103-ID1corq3.html",
+                    "created_time": "2026-09-19T13:12:55+02:00",
+                    "last_refresh_time": "2026-09-23T19:19:10+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Katowice"
+                        },
+                        "region": {
+                            "name": "Śląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8ed4u6preg9e2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/4mzciazaopap1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/s9pts33uz5sq-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/10u92co4kgz12-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/j2khvt0jl07q3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ekb29vvf5nbe1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/u2no266m8jpm-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100333028,
+                    "title": "Nosidelko oddam gratis",
+                    "description": "Oddam za darmo nosidło w używanym stanie. Idealne rozwiązanie dla aktywnych rodziców. Praktyczne nosidełko ułatwi Ci codzienne spacery z dzieckiem. Odbierz je już dziś i ciesz się komfortem noszenia maluszka.",
+                    "url": "https://www.olx.pl/d/oferta/nosidelko-oddam-gratis-CID88-ID1csSSU.html",
+                    "created_time": "2026-09-23T19:14:52+02:00",
+                    "last_refresh_time": "2026-09-23T19:15:54+02:00",
+                    "category": {
+                        "id": 4757,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kraśnik"
+                        },
+                        "region": {
+                            "name": "Lubelskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/orgsjfjywgl81-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/zg53oyzaenuc2-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1097113815,
+                    "title": "Oddam kocurki w dobre ręce",
+                    "description": "Witam,<br />\nNiestety z przyczyn niezależnych od nas musimy rozstać się z naszymi kocurkami. Urodziła nam się córeczka uczulona na kotki. Kocurki mają 3 lata, są wykastrowane. Załatwiają się do kuwety, żyją z psami i małymi dziećmi w zgodzie. Zależy nam na znalezieniu dobrych domków dla naszych kotków. Jasny kotek jest wychodzący, ciemny się boi wychodzić na dwór.",
+                    "url": "https://www.olx.pl/d/oferta/oddam-kocurki-w-dobre-rece-CID103-ID1cfnq7.html",
+                    "created_time": "2026-09-09T10:41:05+02:00",
+                    "last_refresh_time": "2026-09-23T08:49:09+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kozy"
+                        },
+                        "region": {
+                            "name": "Śląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/xoku3c7cl3w93-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/zpcved0sun3f3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/921wtzc34vpq2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/buk1fm3omdyn2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dveh6vqjs684-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/zezqkwimlvd12-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/y7f0eorae9cg-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1046309823,
+                    "title": "Koteczka wyrzucona na ulice",
+                    "description": "Rozalia około roczna koteczka została zabrana z ulicy. <br />\nJest w tej chwili po pełnej profilaktyce odrobaczona zaszczepiona,  kastracji a testy fiv felv ujemne <br />\n<br />\nTo cudna koteczka nakolankowa. Toleruje inne psy i koty<br />\n<br />\nPrzebywa w domu tymczasowym w okolicy zamoscia ale transport to nie problem <br />\n<br />\nZapraszam do adopcji",
+                    "url": "https://www.olx.pl/d/oferta/koteczka-wyrzucona-na-ulice-CID103-ID18OcYT.html",
+                    "created_time": "2025-12-28T12:35:18+01:00",
+                    "last_refresh_time": "2026-09-22T10:10:42+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Rzeszów"
+                        },
+                        "region": {
+                            "name": "Podkarpackie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/lzhjfw6odmtp3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/uik4j2jx2b0u-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/hyge0tlzayum2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/cj04j7b6hqxr-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1099708671,
+                    "title": "Male Kotki szukają domku!",
+                    "description": "Ze względu na brak opiekuna  Małe kotki pilnie szukają domków. Fajnie, gdyby trafiły do jednego. Są mega fajne, mile i grzeczne!",
+                    "url": "https://www.olx.pl/d/oferta/male-kotki-szukaja-domku-CID103-ID1cqgsD.html",
+                    "created_time": "2026-09-21T13:24:57+02:00",
+                    "last_refresh_time": "2026-09-23T13:26:42+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kielce"
+                        },
+                        "region": {
+                            "name": "Świętokrzyskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/6jbk97es7iyg1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/hb0jukcgytuv2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/b6anq7wnpbms1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/t93z6otf44941-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100097356,
+                    "title": "Biurko dziecięce / dla nastolatka",
+                    "description": "Oddam biurko blat lekko porysowany. Do tego komoda do dokręcenia i szufladę trzeba zamocować bo wypada front.<br />\nBiałe biurko dziecięce/ młodzieżowe z półkami i szufladą. Prosty design, praktyczne miejsce do nauki i przechowywania. Widoczne ślady użytkowania.",
+                    "url": "https://www.olx.pl/d/oferta/biurko-dzieciece-dla-nastolatka-CID628-ID1crTzK.html",
+                    "created_time": "2026-09-22T21:45:39+02:00",
+                    "last_refresh_time": "2026-09-23T19:17:26+02:00",
+                    "category": {
+                        "id": 4717,
+                        "type": "house_and_garden"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Dobrzyca"
+                        },
+                        "region": {
+                            "name": "Wielkopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7ixhao8552d81-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/fhomrkv11i3p3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/oo4p83bjei47-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/9go6bscosogk2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/oueshzjevgqw2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/uhikqxu3ltcn1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/xqm4ivujlwzg2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/obc206n8zc7i2-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332823,
+                    "title": "Oddam za darmo palety Marki",
+                    "description": "Oddam za darmo 10 palet drewnianych z dostaw materiałów budowlano-ogrodowych. Tylko odbiór własny.",
+                    "url": "https://www.olx.pl/d/oferta/oddam-za-darmo-palety-marki-CID5216-ID1csSPB.html",
+                    "created_time": "2026-09-23T19:13:54+02:00",
+                    "last_refresh_time": "2026-09-23T19:14:56+02:00",
+                    "category": {
+                        "id": 5253,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Marki"
+                        },
+                        "region": {
+                            "name": "Mazowieckie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/heu2pmf6t5fa3-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332679,
+                    "title": "Oddam za darmo książki",
+                    "description": "Oddam dwie książki. <br />\nOrigami oraz książka z projektami do samodzielnego wykonania.",
+                    "url": "https://www.olx.pl/d/oferta/oddam-za-darmo-ksiazki-CID751-ID1csSNh.html",
+                    "created_time": "2026-09-23T19:13:11+02:00",
+                    "last_refresh_time": "2026-09-23T19:14:12+02:00",
+                    "category": {
+                        "id": 1157,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Miękowo"
+                        },
+                        "region": {
+                            "name": "Zachodniopomorskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/i6jx9gkntcd31-PL/image;s={width}x{height};r=90"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/bb6ya7mhidk43-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ri83pq95ggdv3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/mmoegk7u48vi3-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332846,
+                    "title": "Łóżko jednoosobowe rozkładane Amerykanka",
+                    "description": "Pilnie! Odbior osobisty do piątku, Bytom, Miechowice, ul. Nowa. <br />\n<br />\nJednoosobowe łóżko tapicerowane w ciemnych kolorach, z oparciem, podłokietnikami.  Rozkładane 80×200, pojemny kufer. Można odsłonić wstawki czarno-szare- ukryte auta wyścigowe (był dziecięcy i trochę przejściowo stał jako  sofa w pokoju). Mebel używany, w dobrym stanie, idealny do niewielkich pomieszczeń.<br />\n<br />\nDo przeniesienia, można rozłożyć bez problemu na kilka części.",
+                    "url": "https://www.olx.pl/d/oferta/lozko-jednoosobowe-rozkladane-amerykanka-CID628-ID1csSPY.html",
+                    "created_time": "2026-09-23T19:13:58+02:00",
+                    "last_refresh_time": "2026-09-23T19:16:21+02:00",
+                    "category": {
+                        "id": 1920,
+                        "type": "house_and_garden"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Bytom"
+                        },
+                        "region": {
+                            "name": "Śląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2qiomfid7e513-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/bnm6ur2wk74j1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/xsvpjx2m52r7-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dj0uo1ix0xto-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332618,
+                    "title": "Urucza kotka do adopcji",
+                    "description": "Kotka ma kilka miesięcy,jest bardzo energiczna i uwielbia zabawy. Z kuwety korzysta bezbłędnie. Jest zdrowa i odrobaczona. Jest bardzo młodą kotką a swoje już w życiu przeżyła, dlatego też  szuka kochającego domu, takiego gdzie będzie bezpieczna i będzie miała zawsze pełną miskę!<br />\nKicia znajduje się w okolicach Mrągowa.<br />\nW razie pytań zapraszam do kontaktu.<br />\nMożliwość transportu kotki do nowego domu.",
+                    "url": "https://www.olx.pl/d/oferta/urucza-kotka-do-adopcji-CID103-ID1csSMi.html",
+                    "created_time": "2026-09-23T19:12:48+02:00",
+                    "last_refresh_time": "2026-09-23T19:13:50+02:00",
+                    "category": {
+                        "id": 1884,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Mrągowo"
+                        },
+                        "region": {
+                            "name": "Warmińsko-mazurskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/c7ljphhbyegf3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/dgic3kv686u3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/yfnjeeqvfyae3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/4awz8kaf7a2w-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/0s24kxft6cg73-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ito26rxy4js01-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332627,
+                    "title": "Cegły oddam za darmo",
+                    "description": "Cegly różne różnego gatunku oddam za darmo  odbiór osobisty",
+                    "url": "https://www.olx.pl/d/oferta/cegly-oddam-za-darmo-CID5216-ID1csSMr.html",
+                    "created_time": "2026-09-23T19:12:51+02:00",
+                    "last_refresh_time": "2026-09-23T19:13:52+02:00",
+                    "category": {
+                        "id": 5381,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Zaniemyśl"
+                        },
+                        "region": {
+                            "name": "Wielkopolskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/g6mykvvulx5h-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2pc4ck4dafoc2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2fkirtuo8pis-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332493,
+                    "title": "Narożnik do oddania za darmo",
+                    "description": "Narożnik w dwóch odcieniach brązu i beżu, widoczne ślady użytkowania na siedzisku. Mebel do oddania, idealny do uzupełnienia wnętrza lub do samodzielnej renowacji. Wymaga wyczyszczenia.",
+                    "url": "https://www.olx.pl/d/oferta/naroznik-do-oddania-za-darmo-CID628-ID1csSKh.html",
+                    "created_time": "2026-09-23T19:12:11+02:00",
+                    "last_refresh_time": "2026-09-23T19:13:12+02:00",
+                    "category": {
+                        "id": 1935,
+                        "type": "house_and_garden"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Głownin"
+                        },
+                        "region": {
+                            "name": "Dolnośląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/e0g1jman6brq1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/rn70nqq3chmx2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/gt3ussjcxrej2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/0l53iwvim4o33-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1086420746,
+                    "title": "Dachówki z demątażu za darmo",
+                    "description": "Oddam za darmo dochowki z demątażu za darmo transport w własnym zakresie w świeciu",
+                    "url": "https://www.olx.pl/d/oferta/dachowki-z-dematazu-za-darmo-CID5216-ID1bvwFg.html",
+                    "created_time": "2026-07-20T15:31:54+02:00",
+                    "last_refresh_time": "2026-09-23T19:15:29+02:00",
+                    "category": {
+                        "id": 5234,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Świecie"
+                        },
+                        "region": {
+                            "name": "Kujawsko-pomorskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2ezywtfeatqb3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/s1d059jv3d3c1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/vgn8euibntik-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332479,
+                    "title": "Taśmy przemysłowe",
+                    "description": "Używane taśmy przemysłowe oddam za darmo<br />\nSzerokość 99 cm<br />\nDługość 360 cm lub 240 cm<br />\nOdbiór osobisty",
+                    "url": "https://www.olx.pl/d/oferta/tasmy-przemyslowe-CID757-ID1csSK3.html",
+                    "created_time": "2026-09-23T19:12:06+02:00",
+                    "last_refresh_time": "2026-09-23T19:15:21+02:00",
+                    "category": {
+                        "id": 765,
+                        "type": "goods"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Rybnik"
+                        },
+                        "region": {
+                            "name": "Śląskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/uppkkmsde5dv3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/4v62te62mqup2-PL/image;s={width}x{height}"
+                        }
+                    ]
+                },
+                {
+                    "id": 1100332605,
+                    "title": "Skup starych stodół, wymiana desek na nowe, rozbiórki stodół, stare deski, stare drewno, stodoła",
+                    "description": "Witam,<br />\n<br />\nNasza firma zajmuje się skupem starego drewna, desek obiciowych ze starych budynków. <br />\n<br />\nProwadzimy rozbiórki starych budynków drewnianych. Budynki rozbieramy całkowicie, a za pozyskany materiał płacimy gotówką. Posiadamy uprawnienia na usuwanie materiałów zawierających azbest.<br />\nPokrycie dachowe odpowiednio zabezpieczamy i wystawiamy na to dokument.<br />\n<br />\nZajmujemy się również darmową wymianą starych desek na nową deskę calówkę.<br />\n<br />\nPosiadamy wieloletnie doświadczenie, dzięki czemu wykonujemy naszą pracę solidnie i sprawnie. Mamy własny transport, a za materiał płacimy gotówką w dniu zakupu. Do każdego zlecenia podchodzimy indywidualnie. Dokonujemy bezpłatnej wyceny.<br />\nWięcej informacji pod numerem telefonu lub emailem: skupstaregodrewna2000(małpa)gmail.com",
+                    "url": "https://www.olx.pl/d/oferta/skup-starych-stodol-wymiana-desek-na-nowe-rozbiorki-stodol-stare-deski-stare-drewno-stodola-CID628-ID1csSM5.html",
+                    "created_time": "2026-09-23T19:12:45+02:00",
+                    "last_refresh_time": "2026-09-23T19:12:47+02:00",
+                    "category": {
+                        "id": 4548,
+                        "type": "house_and_garden"
+                    },
+                    "location": {
+                        "city": {
+                            "name": "Kraśnik"
+                        },
+                        "region": {
+                            "name": "Lubelskie"
+                        }
+                    },
+                    "photos": [
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/pm5vtq82aw753-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/5k60z8qho5hs3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/bwvomx330n7h2-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ygi17d9dqp4t3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/a3wp9lz1uusi-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/2tnqghgoxp1c1-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/bygu29rmbd4j3-PL/image;s={width}x{height}"
+                        },
+                        {
+                            "link": "https://ireland.apollo.olxcdn.com:443/v1/files/zigatgbf0x9c-PL/image;s={width}x{height}"
+                        }
+                    ]
+                }
+            ],
+            "metadata": {
+                "total_elements": 1000
+            }
+        }
+    }
+}

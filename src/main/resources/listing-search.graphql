@@ -1,0 +1,22 @@
+query ListingSearchQuery($searchParameters: [SearchParameter!] = []) {
+  clientCompatibleListings(searchParameters: $searchParameters) {
+    __typename
+    ... on ListingSuccess {
+      data {
+        id
+        title
+        description
+        url
+        created_time
+        last_refresh_time
+        category { id type }
+        location { city { name } region { name } }
+        photos { link }
+      }
+      metadata { total_elements }
+    }
+    ... on ListingError {
+      error { code status title detail }
+    }
+  }
+}
