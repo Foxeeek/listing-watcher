@@ -38,12 +38,6 @@
             <artifactId>jackson-databind</artifactId>
             <version>${jackson.version}</version>
         </dependency>
-        <!-- java.time support for Jackson (OffsetDateTime etc.) -->
-        <dependency>
-            <groupId>com.fasterxml.jackson.datatype</groupId>
-            <artifactId>jackson-datatype-jsr310</artifactId>
-            <version>${jackson.version}</version>
-        </dependency>
         <!-- JDBC driver for SQLite (the DB is a single file) -->
         <dependency>
             <groupId>org.xerial</groupId>
