@@ -15,10 +15,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OlxResponseParser {
-    private final static ObjectMapper mapper = new ObjectMapper();
+    private static final ObjectMapper mapper = new ObjectMapper();
 
 
-    private JsonNode requireField(JsonNode parentNode, String fieldName) throws IllegalArgumentException {
+    private JsonNode requireField(JsonNode parentNode, String fieldName){
         JsonNode field = parentNode.get(fieldName);
         if (field == null || field.isNull()) {
             throw new IllegalArgumentException("Bad response: missing required field " + fieldName);
