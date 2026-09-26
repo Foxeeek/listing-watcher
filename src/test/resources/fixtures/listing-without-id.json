@@ -1,0 +1,39 @@
+{
+  "data": {
+    "clientCompatibleListings": {
+      "__typename": "ListingSuccess",
+      "data": [
+        {
+          "title": "Kotka do oddania",
+          "description": "Kotka ma 3 miesiąca, niestety muszę ją oddać ze względu, że nie dogaduje się z kotem, który już był w domu.<br />\nChętnie się bawi, nie boi się ludzi ani zwierząt, załatwia się do kuwety.",
+          "url": "https://www.olx.pl/d/oferta/kotka-do-oddania-CID103-ID1cnqyX.html",
+          "created_time": "2026-09-18T08:07:32+02:00",
+          "last_refresh_time": "2026-09-18T08:11:16+02:00",
+          "category": {
+            "id": 1884,
+            "type": "goods"
+          },
+          "location": {
+            "city": {
+              "name": "Imielin"
+            },
+            "region": {
+              "name": "Śląskie"
+            }
+          },
+          "photos": [
+            {
+              "link": "https://ireland.apollo.olxcdn.com:443/v1/files/7115s4gw3in73-PL/image;s={width}x{height}"
+            },
+            {
+              "link": "https://ireland.apollo.olxcdn.com:443/v1/files/ld2vfanbi10g-PL/image;s={width}x{height}"
+            },
+            {
+              "link": "https://ireland.apollo.olxcdn.com:443/v1/files/lmh51b4da6ri2-PL/image;s={width}x{height}"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -43,7 +43,7 @@ src/
 │   └── resources/
 │       └── listing-search.graphql           our trimmed GraphQL query (no owner data requested)
 └── test/
-    ├── java/com/listingwatcher/             mirrors main: same package, <ClassName>Test
+    ├── java/com/listingwatcher/             one test class per production class: <ClassName>Test
     └── resources/fixtures/                  saved real OLX responses — tests never hit the network
 ```
 
