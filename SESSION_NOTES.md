@@ -33,13 +33,11 @@
 - `photos` зараз обов'язкове — вирішити, чи так і лишити.
 
 ### Наступне (вікно 2)
-1. **Розминка HttpClient** (`Main.java`, локальний, у git не йде):
-   - ✅ GET `httpbin.org/get`;
-   - ✅ JSON через `ObjectNode` (перенос → `\n`);
-   - ⏳ POST зібраний, але **не відправлений**;
-   - ⏳ прибрати raw type `HttpResponse` → `HttpResponse<String>`;
-   - ⏳ `httpbin.org/status/403` — чи кидає виняток?
-   - ⏳ `httpbin.org/delay/5` з таймаутом 2 с.
+1. **Розминка HttpClient ✅ (27.09)** (`Main.java`, локальний, у git не йде). Висновки для `OlxClient`:
+   - `403` → **винятку немає**, просто `statusCode() == 403` → статус перевіряти самому, не-200 → власний виняток зі статусом;
+   - таймаут → `HttpTimeoutException` (це `IOException`);
+   - `Duration.ofSeconds(0)` у `.timeout()` → `IllegalArgumentException` (таймаут має бути > 0);
+   - **розподіл відповідальності:** `OlxClient` падає гучно (не ковтає помилки, інакше — «тихий нуль»), а `Poller` (#4) ловить, логує, чекає (backoff) і пробує наступного циклу.
 2. **Тікет #2** (гілка `ticket-2-client`):
    - `olx/OlxClient.search(offset, limit)` — запит з classpath, тіло через Jackson (окремий тестований метод), POST, таймаут, статус ≠ 200 → виняток;
    - `source/Source.fetchLatest()` + `olx/OlxSource`;
