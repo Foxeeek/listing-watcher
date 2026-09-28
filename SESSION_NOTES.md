@@ -50,3 +50,36 @@
 - Remote називається **`Foxeek`**, не `origin`: `git push -u Foxeek <branch>`.
 - `mvn` локально не в PATH — тести через IntelliJ; перевірка «по-справжньому» = зелений CI.
 - `src/main/java/Main.java` і `fixtures/test.json` — чернетки розминок, виключені локально через `.git/info/exclude`.
+
+## Вікно 2 — 2026-09-28
+
+### Стан
+- **Тікет #2 ✅** — `OlxClient` + `Source`/`OlxSource` + `Application` злито в `main` через PR #2, CI зелений. Тести 6/6 (`OlxClientTest` 2, `OlxResponseParserTest` 4).
+- `Application` наживо друкує кількість свіжих оголошень і перші 3 назви.
+
+### Що додалось у коді
+- `olx/OlxClient`:
+  - `HttpClient` приходить через конструктор (один на програму, налаштовується в `Application`);
+  - текст GraphQL-запиту читається один раз з classpath (`OlxClient.class.getResourceAsStream("/listing-search.graphql")`);
+  - `buildRequestBody(offset, limit)` — тіло через Jackson (`searchParameters` = масив `{key, value}`, значення рядками);
+  - `search(offset, limit)` — POST, таймаут 10 с, статус ≠ 200 → `IOException` зі статусом і початком тіла.
+- `source/Source` — `List<Listing> fetchLatest() throws IOException, InterruptedException`.
+- `olx/OlxSource` — `search(0, 40)` → `OlxResponseParser.parse`.
+- `Application` — один `HttpClient` з `connectTimeout(5 с)` → `OlxClient` → `OlxSource` (змінна типу `Source`).
+
+### Нові факти про OLX API
+- Java `HttpClient` проходить без cookies і спецзаголовків.
+- Кривий JSON у тілі → **HTTP 400** + пояснення в тілі (`FST_ERR_CTP_INVALID_JSON_BODY`).
+- Невірна форма `searchParameters` → **HTTP 200 + `errors[]`** (без `data`) — третя форма помилки.
+- ~40% відповіді — промо (`promotion.top_ad`: 22 з 52), розкидані по списку; сортування фактично за часом оновлення ⇒ позиція в списку нічого не гарантує, лише дедуп по `id`.
+
+### Борг
+- Парсер: коли у відповіді `errors[]` — додавати їхній `message` у текст винятку.
+- Додати в запит `promotion { top_ad }`; на етапі 2 вирішити, чи відфільтровувати промо.
+- Тест перевірки статусу в `OlxClient` з моком `HttpClient` (Mockito), без мережі.
+- Дрібне з вікна 1 (назви `toListings`/`parsePhoto`, `List.copyOf` для фото, назви тестів).
+
+### Наступне (вікно 3)
+1. **Тікет 2b — пошук у своєму місті + радіус** на боці OLX: спершу знайти в DevTools, які ключі з'являються в `searchParameters` при виборі міста й радіуса; потім зробити місто/радіус налаштовуваними (приходять ззовні, не зашиті в `OlxClient`) + тест на тіло запиту.
+2. **#3** SQLite + дедуп: `storage/ListingRepository.saveIfNew(Listing)`.
+3. **#4** `poll/Poller` + `Backoff`, jar на сервер.
